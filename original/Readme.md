@@ -1,6 +1,6 @@
 usage,
 ```
-g++ main.c
+g++ main.cpp
 ./a.out
 ```
 
